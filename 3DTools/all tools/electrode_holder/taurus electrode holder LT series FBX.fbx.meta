@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: e12e657ddbf995d449ba6005e4218084
+timeCreated: 1530430772
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bolt
+    100002: cap
+    100004: Curves
+    100006: Curves_2
+    100008: Default
+    100010: handle
+    100012: hinge
+    100014: Layer 01
+    100016: lever
+    100018: Lower jaw
+    100020: Metal
+    100022: Model
+    100024: Object_1
+    100026: Object_10
+    100028: Object_11
+    100030: Object_12
+    100032: Object_13
+    100034: Object_14
+    100036: Object_2
+    100038: Object_3
+    100040: Object_4
+    100042: Object_5
+    100044: Object_6
+    100046: Object_7
+    100048: Object_8
+    100050: Object_9
+    100052: Ref
+    100054: Spring
+    100056: //RootNode
+    100058: Upper jaw
+    400000: bolt
+    400002: cap
+    400004: Curves
+    400006: Curves_2
+    400008: Default
+    400010: handle
+    400012: hinge
+    400014: Layer 01
+    400016: lever
+    400018: Lower jaw
+    400020: Metal
+    400022: Model
+    400024: Object_1
+    400026: Object_10
+    400028: Object_11
+    400030: Object_12
+    400032: Object_13
+    400034: Object_14
+    400036: Object_2
+    400038: Object_3
+    400040: Object_4
+    400042: Object_5
+    400044: Object_6
+    400046: Object_7
+    400048: Object_8
+    400050: Object_9
+    400052: Ref
+    400054: Spring
+    400056: //RootNode
+    400058: Upper jaw
+    2100000: Textured Plastic
+    2100002: Patina, Plain_2
+    2100004: Patina, Plain
+    2100006: Copper
+    2100008: Silver
+    2100010: Silver (1)
+    2100012: Red Violet
+    2100014: Silver_2
+    2100016: Textured Plastic_2
+    2300000: Object_1
+    2300002: Object_10
+    2300004: Object_11
+    2300006: Object_12
+    2300008: Object_13
+    2300010: Object_14
+    2300012: Object_2
+    2300014: Object_3
+    2300016: Object_4
+    2300018: Object_5
+    2300020: Object_6
+    2300022: Object_7
+    2300024: Object_8
+    2300026: Object_9
+    3300000: Object_1
+    3300002: Object_10
+    3300004: Object_11
+    3300006: Object_12
+    3300008: Object_13
+    3300010: Object_14
+    3300012: Object_2
+    3300014: Object_3
+    3300016: Object_4
+    3300018: Object_5
+    3300020: Object_6
+    3300022: Object_7
+    3300024: Object_8
+    3300026: Object_9
+    4300000: Object_1
+    4300002: Object_13
+    4300004: Object_3
+    4300006: Object_5
+    4300008: Object_4
+    4300010: Object_6
+    4300012: Object_7
+    4300014: Object_11
+    4300016: Object_9
+    4300018: Object_10
+    4300020: Object_8
+    4300022: Object_14
+    4300024: Object_12
+    4300026: Object_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper
+    second: {fileID: 2100000, guid: b11fc226453489e4f9741562d4689354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Patina, Plain
+    second: {fileID: 2100000, guid: 21ce9acd8182b2d4aa8cf97997f6cc60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Patina, Plain_2
+    second: {fileID: 2100000, guid: 01b7624a731b2aa43acff862b1fc0509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Violet
+    second: {fileID: 2100000, guid: 9ac3aff63dd44f54fa8c426ee8c4ef41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver
+    second: {fileID: 2100000, guid: fa4495523f8064847bde5f3144a7bac5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver (1)
+    second: {fileID: 2100000, guid: ae5c344e9ea8a37418aceabca76d9f3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver_2
+    second: {fileID: 2100000, guid: 76825d9a0e736b342bc23302112ee4a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textured Plastic
+    second: {fileID: 2100000, guid: 39f8276e0ab64f249b186da73a4f9cee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textured Plastic_2
+    second: {fileID: 2100000, guid: 0332ea8384b20d14ea911bac59889337, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
