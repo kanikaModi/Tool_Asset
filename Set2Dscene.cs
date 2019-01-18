@@ -15,31 +15,28 @@ public class Set2Dscene : MonoBehaviour {
 	public Image showcase_tool;
 	public TextMeshProUGUI product;
 	public TextMeshProUGUI series;
+    public GameObject Tech_data;
 	//public Ima
 
 	void Awake(){
-		/*if (ApplicationModel.curr_tool == 0) {
-			product.SetText ("Elec");
-			series.SetText ("series");
-
-			//Instantiate (WeldingToolModel [0], this.transform);
-		};*/
-		//float ImageSizeX = aa.bounds.size.x * 100.0f;
+		
 		float ImageSizeY = ApplicationModel.curr_sprite.bounds.size.y * 100.0f;
 		float ImageSizeX = ApplicationModel.curr_sprite.bounds.size.x * 100.0f;
 		print ("ImageSizesdsdY : " + ImageSizeY + " " + fixedImageHeight);
 		//print ("ImageSizeX : " + tool_image.bounds.size.x * 100.0f);
 		ScaleMul = (fixedImageHeight / ImageSizeY);// * ImageSizeX;
-		print("ScaleMul : " + ScaleMul);
+		//print("ScaleMul : " + ScaleMul);
 		showcase_tool.rectTransform.localScale = new Vector3(ScaleMul, ScaleMul, ScaleMul);
 		showcase_tool.rectTransform.sizeDelta = new Vector2 (ImageSizeX, ImageSizeY);
-		//showcase_tool.sprite = ApplicationModel.curr_sprite;
+        if (ApplicationModel.curr_headertechdatafile == "")
+            Tech_data.SetActive(false);
+        //showcase_tool.sprite = ApplicationModel.curr_sprite;
 
-	}
+    }
 
 	void Start(){
 		//product.text
-		print("ApplicationModel.curr_product : " + ApplicationModel.curr_product + " " + ApplicationModel.curr_series);
+		//print("ApplicationModel.curr_product : " + ApplicationModel.curr_product + " " + ApplicationModel.curr_series);
 		showcase_tool.sprite = ApplicationModel.curr_sprite;
 		product.text = ApplicationModel.curr_product;
 		series.text = ApplicationModel.curr_series;

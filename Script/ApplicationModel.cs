@@ -9,6 +9,10 @@ public class ApplicationModel : MonoBehaviour {
 	static public Tools curr_tool;
 	static public string curr_product;
 	static public string curr_series;
+    static public string curr_techdatafile;
+    static public string curr_headertechdatafile;
+    static public string curr_scene = "";
+    static public string prev_scene = "";
 
 
 

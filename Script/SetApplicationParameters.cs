@@ -4,52 +4,54 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class SetApplicationParameters : MonoBehaviour {
+
+    public Animator anim_screenchange;
 	public string Screen_name;
 	public void SetProduct(string Product_name){
-		Debug.Log ("SetProduct");
+		//Debug.Log ("SetProduct");
 		ApplicationModel.curr_product = Product_name;
 	}
 
-	public void SetProduct1(){
-		Debug.Log ("SetProduct11");
-
-	}
+	
 
 	public void SetSeries(string Series_name){
-		Debug.Log ("SetSeries");
+		//Debug.Log ("SetSeries");
 		ApplicationModel.curr_series = Series_name;
 	}
 
 	public void SetSprite(Sprite Sprite_name){
-		Debug.Log ("SetSprite");
+		//Debug.Log ("SetSprite");
 		ApplicationModel.curr_sprite = Sprite_name;
 	}
 
-	/*
-	public void setparameter(string s1, string s2)
-	{
-		ApplicationModel.curr_product = s1;
-		ApplicationModel.curr_series = s2;
-	}*/
+    public void Settechfilename(string Techfilename)
+    {
+        //Debug.Log("SetSprite");
+        ApplicationModel.curr_techdatafile = Techfilename;
+    }
 
-	public void SwitchScreen(){
-		Debug.Log ("SwitchScreen");
-		SceneManager.LoadScene (Screen_name);//Screen_name
+    public void Setheadertechfilename(string headertechdatafile)
+    {
+        //Debug.Log("SetSprite");
+        ApplicationModel.curr_headertechdatafile = headertechdatafile;
+    }
+
+
+
+    public void SwitchScreen(){
+        //Debug.Log ("SwitchScreen");
+        Scene scene = SceneManager.GetActiveScene();
+        ApplicationModel.prev_scene = scene.name;
+        ApplicationModel.curr_scene = Screen_name;
+        StartCoroutine(loadanotherscene(Screen_name));
+       // SceneManager.LoadScene (Screen_name);//Screen_name
 	}
-	/*
-	public void SetparameterSwitch(string parameter, string s2){
-		//ApplicationModel.curr_tool = parameter;
-		int len = parameter.IndexOf ('_');
-		ApplicationModel.curr_product = parameter.Substring(0,len-1);
-		ApplicationModel.curr_series = parameter.Substring (len + 1, parameter.Length-1);
-		Debug.Log("Pr : " + ApplicationModel.curr_product + " " + ApplicationModel.curr_series);
-	}
+    IEnumerator loadanotherscene(string name)
+    {
+        anim_screenchange.SetTrigger("stopscene");          
+        yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene(name);
+    }
 
-	public void SetspriteSwitch(Sprite sprite_image){
-		ApplicationModel.curr_sprite = sprite_image;
-	}*/
-
-
-
-
+    
 }

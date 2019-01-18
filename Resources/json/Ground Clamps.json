@@ -1,0 +1,280 @@
+{
+    "GC_CMP-300": [
+        {
+            "col1": "GC300CMP",
+            "col2": "250",
+            "col3": "300",
+            "col4": "50"
+           
+        }
+		
+    ],
+	"GC_CMP-300_HEADER": [
+        {
+            "col1": "4",
+            "col2": "icon/1",
+            "col3": "icon/2",
+            "col4": "icon/3",
+            "col5": "icon/4"
+			
+        }
+    ],
+	 "GC_CMP-DN": [
+        {
+            "col1": "GC400DN",
+            "col2": "300",
+            "col3": "400",
+            "col4": "70"
+           
+        },
+		{
+            "col1": "GC600DN",
+            "col2": "500",
+            "col3": "600",
+            "col4": "95"
+           
+        }
+		
+    ],
+	"GC_CMP-DN_HEADER": [
+        {
+            "col1": "4",
+            "col2": "icon/1",
+            "col3": "icon/2",
+            "col4": "icon/3",
+            "col5": "icon/4"
+			
+        }
+    ],
+	 "GC_CMP-500": [
+        {
+            "col1": "GC500CMP-BH",
+            "col2": "400",
+            "col3": "500",
+            "col4": "95"
+           
+        }
+				
+    ],
+	"GC_CMP-500_HEADER": [
+        {
+            "col1": "4",
+            "col2": "icon/1",
+            "col3": "icon/2",
+            "col4": "icon/3",
+            "col5": "icon/4"
+			
+        }
+    ],
+	 "GC_CMP-800": [
+        {
+            "col1": "GC800CMP-SH",
+            "col2": "600",
+            "col3": "800",
+            "col4": "120"
+           
+        },
+		{
+            "col1": "GC800CMP-BH",
+            "col2": "600",
+            "col3": "800",
+            "col4": "120"
+           
+        },
+		{
+            "col1": "GC800CMP-HD",
+            "col2": "600",
+            "col3": "800",
+            "col4": "120"
+           
+        }
+				
+    ],
+	"GC_CMP-800_HEADER": [
+        {
+            "col1": "4",
+            "col2": "icon/1",
+            "col3": "icon/2",
+            "col4": "icon/3",
+            "col5": "icon/4"
+			
+        }
+    ],
+	 "GC_ST": [
+        {
+            "col1": "GC600ST-BS",
+            "col2": "500",
+            "col3": "600",
+            "col4": "95"
+           
+        },
+		{
+            "col1": "GC600ST-B",
+            "col2": "500",
+            "col3": "600",
+            "col4": "95"
+           
+        }
+				
+    ],
+	"GC_ST_HEADER": [
+        {
+            "col1": "4",
+            "col2": "icon/1",
+            "col3": "icon/2",
+            "col4": "icon/3",
+            "col5": "icon/4"
+			
+        }
+    ],
+	"GC_MY": [
+        {
+            "col1": "GC600MY",
+            "col2": "500",
+            "col3": "600",
+            "col4": "95"
+           
+        }
+			
+    ],
+	"GC_MY_HEADER": [
+        {
+            "col1": "4",
+            "col2": "icon/1",
+            "col3": "icon/2",
+            "col4": "icon/3",
+            "col5": "icon/4"
+			
+        }
+    ],
+	"GC_FT": [
+        {
+            "col1": "GC750FT",
+            "col2": "650",
+            "col3": "750",
+            "col4": "120"
+           
+        }
+			
+    ],
+	"GC_FT_HEADER": [
+        {
+            "col1": "4",
+            "col2": "icon/1",
+            "col3": "icon/2",
+            "col4": "icon/3",
+            "col5": "icon/4"
+			
+        }
+    ],
+	"GC_BR": [
+        {
+            "col1": "GC200BR",
+            "col2": "150",
+            "col3": "200",
+            "col4": "25"
+           
+        },
+		{
+            "col1": "GC300BR",
+            "col2": "250",
+            "col3": "300",
+            "col4": "50"
+           
+        },
+		{
+            "col1": "GC500BR",
+            "col2": "400",
+            "col3": "500",
+            "col4": "95"
+           
+        }
+			
+    ],
+	"GC_BR_HEADER": [
+        {
+            "col1": "4",
+            "col2": "icon/1",
+            "col3": "icon/2",
+            "col4": "icon/3",
+            "col5": "icon/4"
+		
+        }
+    ],
+	 "GC_OK": [
+        {
+            "col1": "GC200OK",
+            "col2": "150",
+            "col3": "200",
+            "col4": "25"
+           
+        },
+		{
+            "col1": "GC300OK",
+            "col2": "250",
+            "col3": "300",
+            "col4": "50"
+           
+        },
+		{
+            "col1": "GC500OK",
+            "col2": "400",
+            "col3": "500",
+            "col4": "95"
+           
+        }
+			
+    ],
+	"GC_OK_HEADER": [
+        {
+            "col1": "4",
+            "col2": "icon/1",
+            "col3": "icon/2",
+            "col4": "icon/3",
+            "col5": "icon/4"
+			
+        }
+    ],
+	"GC_JK": [
+        {
+            "col1": "GC200JK",
+            "col2": "150",
+            "col3": "200",
+            "col4": "25"
+           
+        },
+		{
+            "col1": "GC300JK",
+            "col2": "250",
+            "col3": "300",
+            "col4": "35"
+           
+        },
+		{
+            "col1": "GC500JK",
+            "col2": "400",
+            "col3": "500",
+            "col4": "50"
+           
+        }
+			
+    ],
+	"GC_JK_HEADER": [
+        {
+            "col1": "4",
+            "col2": "icon/1",
+            "col3": "icon/2",
+            "col4": "icon/3",
+            "col5": "icon/4"
+			
+        }
+    ],
+    "Colsize":[
+        {
+            "X": "300",
+            "Y": "80"
+        }
+    ]
+	
+		
+}

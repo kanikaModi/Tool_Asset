@@ -1,0 +1,76 @@
+{
+    "EC200MAG": [
+        {
+            "col1": "EC200MAG",
+            "col2": "150 Amps",
+            "col3": "200 Amps",
+            "col4": "50"
+           
+        }
+		
+    ],
+	"EC200MAG_HEADER": [
+        {
+            "col1": "4",
+            "col2": "icon/1",
+            "col3": "icon/2",
+            "col4": "icon/3",
+            "col5": "icon/4"
+			
+        }
+    ],
+	 "EC500MAG": [
+        {
+            "col1": "EC500MAG",
+            "col2": "400 Amps",
+            "col3": "500 Amps",
+            "col4": "70"
+           
+        },
+		{
+            "col1": "EC600MAG",
+            "col2": "500",
+            "col3": "600",
+            "col4": "95"
+           
+        }
+		
+    ],
+	"EC500MAG_HEADER": [
+        {
+            "col1": "4",
+            "col2": "icon/1",
+            "col3": "icon/2",
+            "col4": "icon/3",
+            "col5": "icon/4"
+			
+        }
+    ],
+	 "EC400MAG": [
+        {
+            "col1": "EC400MAG",
+            "col2": "300",
+            "col3": "400",
+            "col4": "70"
+           
+        }
+				
+    ],
+	"EC400MAG_HEADER": [
+        {
+            "col1": "4",
+            "col2": "icon/1",
+            "col3": "icon/2",
+            "col4": "icon/3",
+            "col5": "icon/4"
+			
+        }
+    ],
+    "Colsize":[
+        {
+            "X": "300",
+            "Y": "80"
+        }
+    ]
+		
+}

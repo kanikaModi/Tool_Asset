@@ -1,0 +1,334 @@
+{
+    "Blue1": [
+        {
+            "col1": "EL-OV-9",
+            "col2": "9 Kg",
+            "col3": "AC220V/110V",
+            "col4": "200W",
+			"col5": "120 DegCel",   
+			"col6": "457 mm", 
+			"col7": "460 X 117 X 110 mm", 
+			"col8": "545 X 120 X 113 mm", 
+			"col9": "3.6 Kg"			 			
+        }		
+    ],
+    "Blue2": [
+        {
+            "col1": "EL-OV-10SI",
+            "col2": "5 Kg",
+            "col3": "AC220V",
+            "col4": "250W",
+            "col5": "150 DegCel",   
+            "col6": "457 mm", 
+            "col7": "Depth 19 2/1", 
+            "col8": "545 X 120 X 113 mm", 
+            "col9": "4.16 Kg"                        
+        }       
+    ],
+    "Blue3": [
+        {
+            "col1": "EL-OV-10SI-AT",
+            "col2": "5 Kg",
+            "col3": "AC220V",
+            "col4": "250W",
+            "col5": "35-350 DegCel",   
+            "col6": "457 mm", 
+            "col7": "Depth 19 2/1", 
+            "col8": "545 X 120 X 113 mm", 
+            "col9": "4.16 Kg"                        
+        }       
+    ],
+    "Blue4": [
+        {
+            "col1": "EL-OV-10SI-DV",
+            "col2": "5 Kg",
+            "col3": "AC220V/110V",
+            "col4": "250W",
+            "col5": "150 DegCel",   
+            "col6": "457 mm", 
+            "col7": "Depth 19 2/1", 
+            "col8": "545 X 120 X 113 mm", 
+            "col9": "4.16 Kg"                        
+        }       
+    ],
+    "Blue5": [
+        {
+            "col1": "EL-OV-10SI-DTC",
+            "col2": "5 Kg",
+            "col3": "AC220V",
+            "col4": "250W",
+            "col5": "35-200 DegCel",   
+            "col6": "450 mm", 
+            "col7": "Depth 19 2/1", 
+            "col8": "545 X 120 X 113 mm", 
+            "col9": "4.16 Kg"                        
+        }       
+    ],
+    "Blue6": [
+        {
+            "col1": "EL-OV-10SI-ET",
+            "col2": "5 Kg",
+            "col3": "AC220V",
+            "col4": "250W",
+            "col5": "150 DegCel",   
+            "col6": "457 mm", 
+            "col7": "Depth 19 2/1", 
+            "col8": "545 X 120 X 113 mm", 
+            "col9": "4.16 Kg"                        
+        }       
+    ],
+    "Yellow1": [
+        {
+            "col1": "EL-OV-10SI-RU",
+            "col2": "5 Kg",
+            "col3": "AC220V",
+            "col4": "250W",
+            "col5": "150 DegCel",   
+            "col6": "450 mm", 
+            "col7": "Depth 19 2/1", 
+            "col8": "545 X 120 X 113 mm", 
+            "col9": "4.16 Kg"                        
+        }       
+    ],
+    "Yellow2": [
+        {
+            "col1": "EL-OV-10SI-RU-AT",
+            "col2": "5 Kg",
+            "col3": "AC220V",
+            "col4": "250W",
+            "col5": "35-350 DegCel",   
+            "col6": "450 mm", 
+            "col7": "Depth 19 2/1", 
+            "col8": "545 X 120 X 113 mm", 
+            "col9": "4.16 Kg"                        
+        }       
+    ],
+     "Green1": [
+        {
+            "col1": "EL-OV-20SI",
+            "col2": "9 Kg",
+            "col3": "AC220V",
+            "col4": "250W",
+            "col5": "150 DegCel",   
+            "col6": "450 mm", 
+            "col7": "480 X 110 X 110 mm", 
+            "col8": "590 X 180 X 180 mm", 
+            "col9": "7.15 Kg"                        
+        }       
+    ],
+    "Green2": [
+        {
+            "col1": "EL-OV-20SI-DV",
+            "col2": "9 Kg",
+            "col3": "AC220V/110V",
+            "col4": "250W",
+            "col5": "150 DegCel",   
+            "col6": "450 mm", 
+            "col7": "480 X 110 X 110 mm", 
+            "col8": "590 X 180 X 180 mm", 
+            "col9": "7.15 Kg"                        
+        }       
+    ],
+    "Green3": [
+        {
+            "col1": "EL-OV-20SI-AT",
+            "col2": "9 Kg",
+            "col3": "AC220V",
+            "col4": "250W",
+            "col5": "35-350 DegCel",   
+            "col6": "450 mm", 
+            "col7": "480 X 110 X 110 mm", 
+            "col8": "590 X 180 X 180 mm", 
+            "col9": "7.15 Kg"                        
+        }       
+    ],
+    "Green4": [
+        {
+            "col1": "EL-OV-20SI-DTC",
+            "col2": "9 Kg",
+            "col3": "AC220V",
+            "col4": "250W",
+            "col5": "35-200 DegCel",   
+            "col6": "450 mm", 
+            "col7": "480 X 110 X 110 mm", 
+            "col8": "590 X 180 X 180 mm", 
+            "col9": "7.15 Kg"                        
+        }       
+    ],
+    "Green5": [
+        {
+            "col1": "EL-OV-20SI-DT300",
+            "col2": "9 Kg",
+            "col3": "AC220V",
+            "col4": "400W",
+            "col5": "300 DegCel",   
+            "col6": "450 mm", 
+            "col7": "480 X 110 X 110 mm", 
+            "col8": "590 X 180 X 180 mm", 
+            "col9": "7.15 Kg"                        
+        }       
+    ],
+    "Black1": [
+        {
+            "col1": "EL-OV-20IRU",
+            "col2": "9 Kg",
+            "col3": "AC220V",
+            "col4": "250W",
+            "col5": "150 DegCel",   
+            "col6": "450 mm", 
+            "col7": "480 X 110 X 110 mm", 
+            "col8": "590 X 180 X 180 mm", 
+            "col9": "7.15 Kg"                        
+        }       
+    ],
+    "Black2": [
+        {
+            "col1": "EL-OV-20IRU-DV",
+            "col2": "9 Kg",
+            "col3": "AC220V/110V",
+            "col4": "250W",
+            "col5": "150 DegCel",   
+            "col6": "450 mm", 
+            "col7": "480 X 110 X 110 mm", 
+            "col8": "590 X 180 X 180 mm", 
+            "col9": "7.15 Kg"                        
+        }       
+    ],
+    "Black3": [
+        {
+            "col1": "EL-OV-20IRU-AT",
+            "col2": "9 Kg",
+            "col3": "AC220V",
+            "col4": "250W",
+            "col5": "35-350 DegCel",   
+            "col6": "450 mm", 
+            "col7": "480 X 110 X 110 mm", 
+            "col8": "590 X 180 X 180 mm", 
+            "col9": "7.15 Kg"                        
+        }       
+    ],
+    "Black4": [
+        {
+            "col1": "EL-OV-20IRU-DTC",
+            "col2": "9 Kg",
+            "col3": "AC220V",
+            "col4": "250W",
+            "col5": "35-200 DegCel",   
+            "col6": "450 mm", 
+            "col7": "480 X 110 X 110 mm", 
+            "col8": "590 X 180 X 180 mm", 
+            "col9": "7.15 Kg"                        
+        }       
+    ],
+    "Black5": [
+        {
+            "col1": "EL-OV-20IRU-DT300",
+            "col2": "9 Kg",
+            "col3": "AC220V",
+            "col4": "250W",
+            "col5": "300 DegCel",   
+            "col6": "450 mm", 
+            "col7": "480 X 110 X 110 mm", 
+            "col8": "590 X 180 X 180 mm", 
+            "col9": "7.15 Kg"                        
+        }       
+    ],
+    "Black6": [
+        {
+            "col1": "EL-OV-20IRU-HHN",
+            "col2": "9 Kg",
+            "col3": "AC220V/110V",
+            "col4": "250W",
+            "col5": "80-150 DegCel",   
+            "col6": "457 mm", 
+            "col7": "196 mm dia", 
+            "col8": "595 mm Height", 
+            "col9": "7.15 Kg"                        
+        }       
+    ],
+    "Black7": [
+        {
+            "col1": "EL-OV-50SI-AT",
+            "col2": "22.7 Kg",
+            "col3": "AC220V",
+            "col4": "350W",
+            "col5": "35-350 DegCel",   
+            "col6": "450 mm", 
+            "col7": "460 X 150 X 150 mm", 
+            "col8": "570 X 232 X 232 mm", 
+            "col9": "12 Kg"                        
+        }       
+    ],
+     "Black8": [
+        {
+            "col1": "EL-OV-50SI-DV",
+            "col2": "22.7 Kg",
+            "col3": "AC220V/110V",
+            "col4": "350W",
+            "col5": "80-150 DegCel",   
+            "col6": "450 mm", 
+            "col7": "460 X 150 X 150 mm", 
+            "col8": "570 X 232 X 232 mm", 
+            "col9": "12 Kg"                        
+        }       
+    ],
+     "Black9": [
+        {
+            "col1": "EL-OV-50SI-DTC300",
+            "col2": "22.7 Kg",
+            "col3": "AC220V",
+            "col4": "350W",
+            "col5": "300 DegCel",   
+            "col6": "450 mm", 
+            "col7": "460 X 150 X 150 mm", 
+            "col8": "570 X 232 X 232 mm", 
+            "col9": "12 Kg"                        
+        }       
+    ],
+     "Black10": [
+        {
+            "col1": "EL-OV-50SI-WH",
+            "col2": "22.7 Kg",
+            "col3": "AC220V",
+            "col4": "350W",
+            "col5": "150 DegCel",   
+            "col6": "450 mm", 
+            "col7": "460 X 150 X 150 mm", 
+            "col8": "570 X 232 X 232 mm", 
+            "col9": "12 Kg"                        
+        }       
+    ],
+     "Black11": [
+        {
+            "col1": "EL-OV-50SI-DTC300WH",
+            "col2": "22.7 Kg",
+            "col3": "AC220V",
+            "col4": "350W",
+            "col5": "300 DegCel",   
+            "col6": "450 mm", 
+            "col7": "460 X 150 X 150 mm", 
+            "col8": "570 X 232 X 232 mm", 
+            "col9": "12 Kg"                        
+        }       
+    ],
+	"Oven-Header": [
+        {
+            "col1": "9",
+            "col2": "icon/EO_1",
+            "col3": "icon/EO_2",
+            "col4": "icon/EO_3",
+            "col5": "icon/EO_4",
+			"col6": "icon/EO_5",
+			"col7": "icon/EO_6",
+			"col8": "icon/EO_7",
+			"col9": "icon/EO_8",
+			"col10": "icon/EO_9"
+        }
+    ],
+    "Colsize":[
+        {
+            "X": "300",
+            "Y": "80"
+        }
+    ]
+}

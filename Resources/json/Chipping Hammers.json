@@ -1,0 +1,177 @@
+{
+    "ST-B-BL": [
+        {
+            "col1": "ST-B-BL",
+            "col2": "360 gms"
+        }
+				
+    ],
+	"ST-B-BL_HEADER": [
+        {
+            "col1": "2",
+            "col2": "icon/1",
+			"col3": "icon/6"
+        }
+    ],
+	"ST-B-CR": [
+        {
+            "col1": "ST-B-CR",
+            "col2": "380 gms"
+        }
+				
+    ],
+	"ST-B-CR_HEADER": [
+        {
+            "col1": "2",
+            "col2": "icon/1",
+			"col3": "icon/6"
+        }
+    ],
+	"ST-B-EX-CR": [
+        {
+            "col1": "ST-B-EX-CR",
+            "col2": "385 gms"
+        }
+				
+    ],
+	"ST-B-EX-CR_HEADER": [
+        {
+            "col1": "2",
+            "col2": "icon/1",
+			"col3": "icon/6"
+        }
+    ],
+	"ST-B-GR": [
+        {
+            "col1": "ST-B-GR",
+            "col2": "360 gms"
+        }
+				
+    ],
+	"ST-B-GR_HEADER": [
+        {
+            "col1": "2",
+            "col2": "icon/1",
+			"col3": "icon/6"
+        }
+    ],
+	"SH-LH2-BL": [
+        {
+            "col1": "SH-LH2-BL",
+            "col2": "420 gms"
+        }
+				
+    ],
+	"SH-LH2-BL_HEADER": [
+        {
+            "col1": "2",
+            "col2": "icon/1",
+			"col3": "icon/6"
+        }
+    ],
+	"SH-MD-W": [
+        {
+            "col1": "SH-MD-W",
+            "col2": "380 gms"
+        }
+				
+    ],
+	"SH-MD-W_HEADER": [
+        {
+            "col1": "2",
+            "col2": "icon/1",
+			"col3": "icon/6"
+        }
+    ],
+	"SH-LH1-BL": [
+        {
+            "col1": "SH-LH1-BL",
+            "col2": "420 gms"
+        }
+				
+    ],
+	"SH-LH1-BL_HEADER": [
+        {
+            "col1": "2",
+            "col2": "icon/1",
+			"col3": "icon/6"
+        }
+    ],
+	"SH-LH-W": [
+        {
+            "col1": "SH-LH-W",
+            "col2": "420 gms"
+        }
+				
+    ],
+	"SH-LH-W_HEADER": [
+        {
+            "col1": "2",
+            "col2": "icon/1",
+			"col3": "icon/6"
+        }
+    ],
+	"WH-LH": [
+        {
+            "col1": "WH-LH",
+            "col2": "660 gms"
+        }
+				
+    ],
+	"WH-LH_HEADER": [
+        {
+            "col1": "2",
+            "col2": "icon/1",
+			"col3": "icon/6"
+        }
+    ],
+	"WH-SM": [
+        {
+            "col1": "WH-SM",
+            "col2": "240 gms"
+        }
+				
+    ],
+	"WH-SM_HEADER": [
+        {
+            "col1": "2",
+            "col2": "icon/1",
+			"col3": "icon/6"
+        }
+    ],
+	"WH-MH": [
+        {
+            "col1": "WH-MH",
+            "col2": "450 gms"
+        }
+				
+    ],
+	"WH-MH_HEADER": [
+        {
+            "col1": "2",
+            "col2": "icon/1",
+			"col3": "icon/6"
+        }
+    ],
+	"RH-SH": [
+        {
+            "col1": "RH-SH",
+            "col2": "245 gms"
+        }
+				
+    ],
+	"RH-SH_HEADER": [
+        {
+            "col1": "2",
+            "col2": "icon/1",
+			"col3": "icon/6"
+        }
+    ],
+    "Colsize":[
+        {
+            "X": "300",
+            "Y": "80"
+        }
+    ]
+		
+}

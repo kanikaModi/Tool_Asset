@@ -1,0 +1,172 @@
+{
+    "Splicers": [
+        {
+            "col1": "BS14",
+            "col2": "1/4' Bore"       
+        },
+		{
+            "col1": "BS516",
+            "col2": "5/16' Bore"              
+        },
+		{
+            "col1": "BS38",
+            "col2": "3/8' Bore"           
+        }
+		
+    ],
+	"Splicers-Header": [
+        {
+            "col1": "2",
+            "col2": "icon/Brass_1",
+            "col3": "icon/Brass_2"			
+        }
+    ],
+	"Tails": [
+        {
+            "col1": "BS148",
+            "col2": "1/4' Bore"       
+        },
+		{
+            "col1": "BS5168",
+            "col2": "5' Bore"              
+        },
+		{
+            "col1": "BS388",
+            "col2": "3/8' Bore"           
+        },
+		{
+            "col1": "D8LNZL8682",
+            "col2": "4.0 mm Bore"           
+        },
+		{
+            "col1": "D8LNZL8681",
+            "col2": "6.0 mm Bore"           
+        },
+		{
+            "col1": "D8LNZL86801",
+            "col2": "8.0 mm Bore"           
+        },
+		{
+            "col1": "D8LNZL8680",
+            "col2": "9.0 mm Bore"           
+        }
+		
+    ],
+	"Tails-Header": [
+        {
+            "col1": "2",
+            "col2": "icon/Brass_1",
+            "col3": "icon/Brass_2"			
+        }
+    ],
+	"Barbed": [
+        {
+            "col1": "BNP14148",
+            "col2": "1/4' Bore X 1/4' Nut"       
+        },
+		{
+            "col1": "BNP149148",
+            "col2": "1/4' Bore X 9/16' Nut"               
+        },
+		{
+            "col1": "BNP14388",
+            "col2": "1/4' Bore X 3/8' Nut"              
+        },
+		{
+            "col1": "BNP516388",
+            "col2": "5/16' Bore X 3/8' Nut"              
+        },
+		{
+            "col1": "BNP38388",
+            "col2": "3/8' Bore X 3/8' Nut"              
+        },
+		{
+           "col1": "NZL86861",
+            "col2": "3.5' Bore X 1/4' Nut"              
+        },
+		{
+            "col1": "NZL8686",
+            "col2": "4.0' Bore X 1/4' Nut"            
+        },
+		{
+            "col1": "NZL8685",
+            "col2": "6.0' Bore X 1/4' Nut"            
+        },
+		{
+            "col1": "NZL86891",
+            "col2": "3.5' Bore X 3/8' Nut"            
+        },
+		{
+            "col1": "NZL8689",
+            "col2": "4.0' Bore X 3/8' Nut"            
+        },
+		{
+            "col1": "NZL8688",
+            "col2": "6.0' Bore X 3/8' Nut"            
+        },
+		{
+            "col1": "NZL86871",
+            "col2": "8.0' Bore X 3/8' Nut"            
+        },
+		{
+            "col1": "NZL8687",
+            "col2": "9.0' Bore X 3/8' Nut"            
+        }
+		
+    ],
+	"Barbed-Header": [
+        {
+            "col1": "2",
+            "col2": "icon/Brass_1",
+            "col3": "icon/Brass_2"			
+        }
+    ],
+	
+	"UNIONNUT": [
+        {
+            "col1": "BN14R",
+            "col2": "1/4' BSP-19TPI RH"       
+        },
+		{
+            "col1": "BN14L",
+            "col2": "1/4' BSP-19TPI LH"       
+        },
+		{
+            "col1": "BN38R",
+            "col2": "3/8' BSP-19TPI RH"       
+        },
+		{
+            "col1": "BN38L",
+            "col2": "3/8' BSP-19TPI LH"       
+        },
+		{
+            "col1": "BN916R",
+            "col2": "9/16' UNF-18TPI RH"       
+        },
+		{
+            "col1": "BN916L",
+            "col2": "9/16' UNF-18TPI LH"       
+        },
+		{
+            "col1": "BN58R",
+            "col2": "5/8' BSP-14TPI RH"       
+        },
+		{
+            "col1": "BN58L",
+            "col2": "5/8' BSP-14TPI LH"       
+        }
+	],
+	"UNIONNUT-Header": [
+        {
+            "col1": "2",
+            "col2": "icon/Brass_1",
+            "col3": "icon/Brass_2"			
+        }
+    ],
+    "Colsize":[
+        {
+            "X": "300",
+            "Y": "80"
+        }
+    ]
+}
